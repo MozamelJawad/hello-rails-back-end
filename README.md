@@ -26,7 +26,7 @@
 
 # 📖 [Hello Rails Back-end] <a name="about-project"></a>
 
-The **Hello Rails Back-end** is a Ruby on Rails backend API and shows different greetings as a JSON format that other application can user to show in the view.
+The **Hello Rails Back-end** is a Ruby on Rails backend API and shows different greetings as a JSON format that other application can use to show in the interface.
 
 ## 🛠 Built With <a name="built-with"></a>
 
